@@ -231,7 +231,6 @@ $RECYCLE.BIN/
 
 # Custom Project Files
 data/*.csv
-data/ml-latest-small/
 *.zip
 !data/README.md
 
